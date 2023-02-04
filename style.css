@@ -1,0 +1,12 @@
+body {
+  background: #008888;
+  display: grid;
+  place-items: center;
+  height: 100vh;
+  margin: 0;
+}
+
+.card {
+  background: #fdfdfd;
+  border-radius: 4px;
+}
